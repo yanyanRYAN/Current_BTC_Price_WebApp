@@ -1,0 +1,47 @@
+.bodyBackdrop {
+  background-color: grey;
+  padding:25px;
+}
+
+.contentBody {
+  background-color: antiquewhite;
+  display: block;
+  margin: auto;
+}
+h1, h3 {
+  text-align: center;
+}
+
+.textCenter {
+  text-align: center;
+}
+
+.button {
+  display: block;
+  margin: auto;
+}
+
+.output {
+  text-align: center;
+}
+
+.outputChart {
+  text-align: center;
+  align-content: center;
+  align: center;
+}
+
+.closingPrice {
+  font-size: 34px;
+  color: #33cc00;
+}
+
+
+
+.bannerClass {
+width: 100%;
+background-image: url(https://www.crypto-news.net/wp-content/uploads/2016/11/1217.sdt-news.jpg);
+height: 405px;
+background-color: purple;
+background-position: center;
+}
